@@ -59,6 +59,10 @@ include("header.php")
                         <td><?php echo $data["qualification"];?></td>
                         <td>
                             <a href="view_teacher.php?id=<?php echo $data['id']?>" class="btn btn-outline-info">View</a>
+                            
+                            <a class="btn btn-danger" href="delete_teacher.php?id=<?php echo $data['id']?>">
+                                <i class="bi bi-trash"></i>
+                            </a>
                         </td>
                     </tr>
                     <?php   
