@@ -69,6 +69,7 @@ include("header.php");
         move_uploaded_file($tmp_path,"project_images/".$new_name);
         include("connection.php"); 
         $query="INSERT INTO `category`( `category_name`,`image`) VALUES ('$category_name','$new_name')";
+        die();
         $res=mysqli_query($db,$query);
         if($res>0){
             echo "<script>window.location.assign('add_category.php?msg=Added successfully')</script>";
