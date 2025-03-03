@@ -1,7 +1,6 @@
 <?php
 include("header.php");
-?>
-    
+?> 
 <main>
   
     <div class="hero-slide owl-carousel site-blocks-cover">
