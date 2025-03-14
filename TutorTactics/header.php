@@ -65,9 +65,9 @@
       <div class="container">
         <div class="d-flex align-items-center">
           <div class="site-logo">
-            <a href="index.html" class="d-block">
-              <img src="images/logo.jpg" alt="Image" class="img-fluid">
-            </a>
+            <span class="d-block text-primary">
+                EDUTRACK
+            </span>
           </div>
           <div class="mr-auto">
             <nav class="site-navigation position-relative text-right" role="navigation">
@@ -77,21 +77,17 @@
                 </li>
                 <li class="has-children active">
                   <a href="about.php" class="nav-link text-left">About Us</a>
-                  <ul class="dropdown">
-                    <li><a href="#">Our Teachers</a></li>
-                    <li><a href="#">Our School</a></li>
-                  </ul>
                 </li>
                 <li>
                   <a href="admissions.php" class="nav-link text-left">Admissions</a>
                 </li>
                 <li>
-                  <a href="courses.php" class="nav-link text-left">Courses</a>
+                  <a href=" courses.php" class="nav-link text-left">Courses</a>
                 </li>
                 <li>
                     <a href="contact.php" class="nav-link text-left">Contact</a>
                   </li>
-              </ul>                                                                                                                                                                                                                                                                                          </ul>
+              </ul>                                                                                                                                                                                                                                                   </ul>
             </nav>
 
           </div>
