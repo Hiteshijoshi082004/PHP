@@ -99,7 +99,7 @@ include("header.php");
               <div class="owl-slide-3 owl-carousel">
                   <div class="course-1-item">
                     <figure class="thumnail">
-                      <a href="course-single.html"><img src="images/neet_img.jpeg" alt="Image" class="img-fluid"></a>
+                      <!-- <img src="images/neet.jpg" alt="Image" class="img-fluid"> -->
                       <!-- <div class="price">$99.00</div> -->
                       <div class="category"><h3>NEET Acheivers</h3></div>  
                     </figure>
@@ -112,19 +112,19 @@ include("header.php");
                         <span class="icon-star2 text-warning"></span>
                         <span class="icon-star2 text-warning"></span>
                       </div>
-                      <p class="desc mb-4">Your Gateway to Top Medical Colleges with Expert Coaching and Unmatched Guidance!"</p>
+                      <p class="desc mb-4">Your Gateway to Top Medical Colleges with Expert Coaching and Unmatched Guidance.</p>
                       <p><a href="course-single.html" class="btn btn-primary rounded-0 px-4">Enroll In This Course</a></p>
                     </div>
                   </div>
       
                   <div class="course-1-item">
                     <figure class="thumnail">
-                      <a href="course-single.html"><img src="images/jee_img.jpg" alt="Image" class="img-fluid"></a>
+                     <!-- <img src="images/jee.jpeg" alt="Image" class="img-fluid"> -->
                       <!-- <div class="price">$99.00</div> -->
                       <div class="category"><h3>IIT Cracker</h3></div>  
                     </figure>
                     <div class="course-1-content pb-4">
-                      <h2>How To Create Mobile Apps Using Ionic</h2>
+                      <h2>Covers JEE Main & Advanced</h2>
                       <div class="rating text-center mb-3">
                         <span class="icon-star2 text-warning"></span>
                         <span class="icon-star2 text-warning"></span>
@@ -132,19 +132,19 @@ include("header.php");
                         <span class="icon-star2 text-warning"></span>
                         <span class="icon-star2 text-warning"></span>
                       </div>
-                      <p class="desc mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique accusantium ipsam.</p>
+                      <p class="desc mb-4">Your Pathway to IITs, NITs & Top Engineering Colleges with Expert Coaching at EduTrack.</p>
                       <p><a href="course-single.html" class="btn btn-primary rounded-0 px-4">Enroll In This Course</a></p>
                     </div>
                   </div>
       
                   <div class="course-1-item">
                     <figure class="thumnail">
-                      <a href="course-single.html"><img src="images/course_3.jpg" alt="Image" class="img-fluid"></a>
+                     <!-- <img src="images/.jpeg" alt="Image" class="img-fluid"> -->
                       <!-- <div class="price">$99.00</div> -->
-                      <div class="category"><h3>Arithmetic</h3></div>  
+                      <div class="category"><h3> 10th & 12th Boards</h3></div>  
                     </figure>
                     <div class="course-1-content pb-4">
-                      <h2>How To Create Mobile Apps Using Ionic</h2>
+                      <h2>Preparation of CBSE 10th,12th</h2>
                       <div class="rating text-center mb-3">
                         <span class="icon-star2 text-warning"></span>
                         <span class="icon-star2 text-warning"></span>
@@ -152,39 +152,19 @@ include("header.php");
                         <span class="icon-star2 text-warning"></span>
                         <span class="icon-star2 text-warning"></span>
                       </div>
-                      <p class="desc mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique accusantium ipsam.</p>
-                      <p><a href="courses-single.html" class="btn btn-primary rounded-0 px-4">Enroll In This Course</a></p>
-                    </div>
-                  </div>
-
-                  <div class="course-1-item">
-                    <figure class="thumnail">
-                        <a href="course-single.html"><img src="images/course_4.jpg" alt="Image" class="img-fluid"></a>
-                      <!-- <div class="price">$99.00</div> -->
-                      <div class="category"><h3>Mobile Application</h3></div>  
-                    </figure>
-                    <div class="course-1-content pb-4">
-                      <h2>How To Create Mobile Apps Using Ionic</h2>
-                      <div class="rating text-center mb-3">
-                        <span class="icon-star2 text-warning"></span>
-                        <span class="icon-star2 text-warning"></span>
-                        <span class="icon-star2 text-warning"></span>
-                        <span class="icon-star2 text-warning"></span>
-                        <span class="icon-star2 text-warning"></span>
-                      </div>
-                      <p class="desc mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique accusantium ipsam.</p>
+                      <p class="desc mb-4"> batches for Class 10 & 12 students, designed to help them excel in board exams.</p>
                       <p><a href="course-single.html" class="btn btn-primary rounded-0 px-4">Enroll In This Course</a></p>
                     </div>
                   </div>
-      
+            
                   <div class="course-1-item">
                     <figure class="thumnail">
-                        <a href="course-single.html"><img src="images/course_5.jpg" alt="Image" class="img-fluid"></a>
+                      <!-- <img src="images/.jpg" alt="Image" class="img-fluid"> -->
                       <!-- <div class="price">$99.00</div> -->
-                      <div class="category"><h3>Web Design</h3></div>  
+                      <div class="category"><h3>PBSE Boards</h3></div>  
                     </figure>
                     <div class="course-1-content pb-4">
-                      <h2>How To Create Mobile Apps Using Ionic</h2>
+                      <h2>Preparation of PBSE 5th, 8th, 10th, 12th</h2>
                       <div class="rating text-center mb-3">
                         <span class="icon-star2 text-warning"></span>
                         <span class="icon-star2 text-warning"></span>
@@ -192,27 +172,7 @@ include("header.php");
                         <span class="icon-star2 text-warning"></span>
                         <span class="icon-star2 text-warning"></span>
                       </div>
-                      <p class="desc mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique accusantium ipsam.</p>
-                      <p><a href="course-single.html" class="btn btn-primary rounded-0 px-4">Enroll In This Course</a></p>
-                    </div>
-                  </div>
-      
-                  <div class="course-1-item">
-                    <figure class="thumnail">
-                        <a href="course-single.html"><img src="images/course_6.jpg" alt="Image" class="img-fluid"></a>
-                      <!-- <div class="price">$99.00</div> -->
-                      <div class="category"><h3>Mobile Application</h3></div>  
-                    </figure>
-                    <div class="course-1-content pb-4">
-                      <h2>How To Create Mobile Apps Using Ionic</h2>
-                      <div class="rating text-center mb-3">
-                        <span class="icon-star2 text-warning"></span>
-                        <span class="icon-star2 text-warning"></span>
-                        <span class="icon-star2 text-warning"></span>
-                        <span class="icon-star2 text-warning"></span>
-                        <span class="icon-star2 text-warning"></span>
-                      </div>
-                      <p class="desc mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique accusantium ipsam.</p>
+                      <p class="desc mb-4">Specialized Different Batches for Different Standards.</p>
                       <p><a href="course-single.html" class="btn btn-primary rounded-0 px-4">Enroll In This Course</a></p>
                     </div>
                   </div>
@@ -221,9 +181,6 @@ include("header.php");
       
           </div>
         </div>
-
-        
-        
       </div>
     </div>
 
@@ -239,9 +196,10 @@ include("header.php");
             </h2>
           </div>
           <div class="col-lg-8">
-            <p class="lead">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem nesciunt quaerat ad reiciendis perferendis voluptate fugiat sunt fuga error totam.</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus assumenda omnis tempora ullam alias amet eveniet voluptas, incidunt quasi aut officiis porro ad, expedita saepe necessitatibus rem debitis architecto dolore? Nam omnis sapiente placeat blanditiis voluptas dignissimos, itaque fugit a laudantium adipisci dolorem enim ipsum cum molestias? Quod quae molestias modi fugiat quisquam. Eligendi recusandae officiis debitis quas beatae aliquam?</p>
-            <p><a href="#">Read more</a></p>
+            <p class="lead">At EduTrack, we are committed to nurturing academic excellence and fostering a passion for learning. Our tuition center provides a supportive and stimulating environment where students can unlock their full potential and achieve outstanding academic results. With a team of highly qualified and experienced educators, we deliver personalized and structured learning programs designed to meet the diverse needs of students from various educational backgrounds.</p>
+          <p>
+            Our mission is to bridge the gap between classroom learning and academic success by offering comprehensive and engaging lessons that align with school curriculums. We cater to students of all ages, from primary school to higher secondary levels, covering a wide range of subjects, including Mathematics, Science, English, and more. Whether a student needs remedial support, homework assistance, or advanced coaching for competitive exams, we provide targeted learning strategies to help them succeed.
+            </p>
           </div>
         </div>
       </div>
@@ -253,7 +211,7 @@ include("header.php");
         <div class="row mb-5">
           <div class="col-lg-4">
             <h2 class="section-title-underline">
-              <span>Testimonials</span>
+              <span>Top Acheivers</span>
             </h2>
           </div>
         </div>
@@ -263,10 +221,10 @@ include("header.php");
 
           <div class="ftco-testimonial-1">
             <div class="ftco-testimonial-vcard d-flex align-items-center mb-4">
-              <img src="images/person_1.jpg" alt="Image" class="img-fluid mr-3">
+              <!-- <img src="images/person_1.jpg" alt="Image" class="img-fluid mr-3"> -->
               <div>
-                <h3>Allison Holmes</h3>
-                <span>Designer</span>
+                <h3>Shivam Luther</h3>
+                <span>Scored </span>
               </div>
             </div>
             <div>
@@ -351,24 +309,22 @@ include("header.php");
           <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
             <span class="icon flaticon-mortarboard"></span>
             <h3>Our Philosphy</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis recusandae, iure repellat quis delectus ea? Dolore, amet reprehenderit.</p>
+            <p> Our philosophy is centered around the idea that every child has unique strengths and learning styles, and with the right guidance, they can unlock their full potential.</p>
           </div>
           <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
             <span class="icon flaticon-school-material"></span>
             <h3>Academics Principle</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis recusandae, iure repellat quis delectus ea?
-              Dolore, amet reprehenderit.</p>
+            <p> Our curriculum aligns with school standards while incorporating advanced learning techniques to enhance understanding and retention.</p>
           </div>
           <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
             <span class="icon flaticon-library"></span>
             <h3>Key of Success</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis recusandae, iure repellat quis delectus ea?
-              Dolore, amet reprehenderit.</p>
+            <p>Our approach focuses on building a strong academic foundation while fostering essential skills such as critical thinking, problem-solving, and self-discipline.</p>
           </div>
         </div>
       </div>
     </div>
-    
+    <!--
     <div class="news-updates">
       <div class="container">
          
@@ -451,24 +407,9 @@ include("header.php");
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
-    <div class="site-section ftco-subscribe-1" style="background-image: url('images/bg_1.jpg')">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-lg-7">
-            <h2>Subscribe to us!</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,</p>
-          </div>
-          <div class="col-lg-5">
-            <form action="" class="d-flex">
-              <input type="text" class="rounded form-control mr-2 py-3" placeholder="Enter your email">
-              <button class="btn btn-primary rounded py-3 px-4" type="submit">Send</button>
-            </form>
-          </div>
-        </div>
-      </div>
-    </div> 
+
 
 </main>
 
