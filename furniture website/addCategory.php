@@ -18,21 +18,29 @@ include("commoncode.php")
                 }
                 ?>
                
-            <form enctype="multipart/form-data"    method="post"  data-aos="fade-up" data-aos-delay="200">
-                <div class="row gy-4">
-                <div class="col-md-6">
-                    <input type="text" name="category_name" class="form-control" placeholder="Category Name" required="">
-                </div>
-                <div class="col-md-6 ">
+            
+                <!-- <div class="col-md-6 ">
                     <input type="file" class="form-control" name="image" placeholder="Your Email" required="">
-                </div>
-                <div class="col-md-12 text-center">
-                    <div class="loading">Loading</div>
-                    <button type="submit" name="submit_btn">Submit</button>
-                </div>
+                </div> -->
+                <form>
+                <div class="row">
+                  <div class="col-6">
+                    <div class="form-group">
+                      <label class="text-black" for="fname">Category Name</label>
+                      <input type="text" class="form-control" id="fname" placeholder="Category">
+                    </div>
+                  </div>
+                  <div class="col-6">
+                    <div class="form-group">
+                      <label class="text-black" for="lname">Image of Category</label>
+                      <input type="file" class="form-control" id="lname" name="image" placeholder="Image" required="">
+                    </div>
+                  </div>
+            </div>
+<br><br>
+                <button type="submit" name="submit_button" class="btn btn-primary-hover-outline">Send Message</button>
+              </form>
 
-                </div>
-            </form>
             </div><!-- End Contact Form -->
 
         </div>
@@ -46,9 +54,7 @@ include("commoncode.php")
         $image=$_FILES["image"];
         $img_name=$image["name"];
         $tmp_name=$image["tmp_name"];
-        // echo $img_name, $tmp_name;
         $new_name=rand()."-".$img_name;
-        // echo $new_name;
         move_uploaded_file($tmp_name,"project_images/".$new_name);
         include("connection.php"); 
         $query="INSERT INTO `categories`( `category_name`,`image`) VALUES ('$category_name','$new_name')";

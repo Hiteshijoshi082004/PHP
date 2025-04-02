@@ -6,8 +6,8 @@ include("header.php");
 include("commoncode.php");
 ?>
 <br><br>
-<section id="contact" class="contact section">
-        <div class="container" data-aos="fade-up" data-aos-delay="100">
+<section class="">
+        <div class="container">
 
         <div class="row justify-content-center gy-4">
             <div class="col-lg-8 ">
