@@ -22,23 +22,23 @@ include("commoncode.php")
                 <!-- <div class="col-md-6 ">
                     <input type="file" class="form-control" name="image" placeholder="Your Email" required="">
                 </div> -->
-                <form>
+                <form enctype="multipart/form-data" method="POST">
                 <div class="row">
                   <div class="col-6">
                     <div class="form-group">
                       <label class="text-black" for="fname">Category Name</label>
-                      <input type="text" class="form-control" id="fname" placeholder="Category">
+                      <input type="text" class="form-control" name="category_name" placeholder="Category">
                     </div>
                   </div>
                   <div class="col-6">
                     <div class="form-group">
                       <label class="text-black" for="lname">Image of Category</label>
-                      <input type="file" class="form-control" id="lname" name="image" placeholder="Image" required="">
+                      <input type="file" name="image" placeholder="Image" required="">
                     </div>
                   </div>
             </div>
 <br><br>
-                <button type="submit" name="submit_button" class="btn btn-primary-hover-outline">Send Message</button>
+                <button type="submit" name="submit_btn" class="btn btn-primary-hover-outline">Send Message</button>
               </form>
 
             </div><!-- End Contact Form -->
