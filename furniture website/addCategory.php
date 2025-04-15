@@ -38,7 +38,7 @@ include("commoncode.php")
                   </div>
             </div>
 <br><br>
-                <button type="submit" name="submit_btn" class="btn btn-primary-hover-outline">Send Message</button>
+                <button type="submit" name="submit_btn" class="btn btn-primary-hover-outline">Add Category</button>
               </form>
 
             </div><!-- End Contact Form -->
